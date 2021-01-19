@@ -210,9 +210,11 @@ request.post("http://localhost:5000/get_body", json=dictionary)
 
 # HTTP request bodies
 
-## Homework
+# Homework
 
-Create a API that allows tht user to:
+<**https://classroom.github.com/a/_cXTxb_7**>
+
+Create a API that allows the user to:
 
 >- submit **tweets** ({\"user\": \"pepe\", \"tweet\": \"Hello world\"})
 >- List all tweets
